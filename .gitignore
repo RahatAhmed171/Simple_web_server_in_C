@@ -1,0 +1,16 @@
+# Ignore binary and object files
+/bin/
+/obj/
+
+# Ignore Code::Blocks project files (optional, but usually not needed for version control)
+*.layout
+*.depend
+*.cbp
+
+# Ignore compiled binary files (executables)
+*.exe
+*.out
+
+# Ignore temporary files
+*.tmp
+*.log
